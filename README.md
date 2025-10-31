@@ -49,7 +49,7 @@
 
 ### 🔥 GitHub Streak:
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=harshitkumaragarwal&theme=tokyonight&hide_border=true" alt="harshitkumaragarwal" />
+  <img src="https://streak-stats.demolab.com?user=harshit&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
